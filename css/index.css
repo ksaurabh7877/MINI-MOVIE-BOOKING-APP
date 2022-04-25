@@ -1,0 +1,10 @@
+#navbar{
+    display: flex;
+
+}
+#add-money{
+    height: 324px;
+    width: 90%;
+    text-align: center;
+    justify-content: space-between;
+}
